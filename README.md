@@ -8,6 +8,8 @@
 - [I3](https://i3wm.org/)
     - Bar: [Polybar](https://github.com/polybar/polybar)
     - Background: [FEH](https://feh.finalrewind.org/)
+    - App Switcher: [Rofi](https://github.com/davatorium/rofi)
+        - Install on Ubuntu with apt
 ### Note Taking
 - [Joplin](https://joplinapp.org/)
 
