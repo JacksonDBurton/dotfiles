@@ -7,6 +7,7 @@
 ### Window Manager
 - [I3](https://i3wm.org/)
     - Bar: [Polybar](https://github.com/polybar/polybar)
+    - Background: [FEH](https://feh.finalrewind.org/)
 ### Note Taking
 - [Joplin](https://joplinapp.org/)
 
