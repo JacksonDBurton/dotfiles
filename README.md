@@ -6,6 +6,7 @@
     - Font: [MesloLGS NF](https://github.com/romkatv/powerlevel10k/blob/master/font.md)
 ### Window Manager
 - [I3](https://i3wm.org/)
+    - Bar: [Polybar](https://github.com/polybar/polybar)
 ### Note Taking
 - [Joplin](https://joplinapp.org/)
 
