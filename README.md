@@ -1,4 +1,4 @@
 # dotfiles
 
 ## Links
-- [Dotfile Management](https://www.atlassian.com/git/tutorials/dotfiles)
+- [Dotfile Management Tutorial](https://www.atlassian.com/git/tutorials/dotfiles)
