@@ -3,6 +3,8 @@
 ## Tools
 ### Terminal
 - [Kitty](https://sw.kovidgoyal.net/kitty/)
+### Window Manager
+- [I3](https://i3wm.org/)
 ### Note Taking
 - [Joplin](https://joplinapp.org/)
 
