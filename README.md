@@ -1,6 +1,8 @@
 # dotfiles
 
 ## Tools
+### Terminal
+- [Kitty](https://sw.kovidgoyal.net/kitty/)
 ### Note Taking
 - [Joplin](https://joplinapp.org/)
 
