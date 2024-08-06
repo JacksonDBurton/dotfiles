@@ -13,6 +13,8 @@
         - Install on Ubuntu with apt
 ### Note Taking
 - [Joplin](https://joplinapp.org/)
+### Text Editor
+- [Nvim](https://github.com/neovim/neovim)
 
 ## Links
 - [Dotfile Management Tutorial](https://www.atlassian.com/git/tutorials/dotfiles)
