@@ -3,7 +3,7 @@
 ## Tools
 ### Terminal
 - [Kitty](https://sw.kovidgoyal.net/kitty/)
-    - Font: [MesloLGS NF](https://github.com/romkatv/powerlevel10k/blob/master/font.md)
+    - Font: [MesloLG NF](https://www.nerdfonts.com/font-downloads)
 - Considering [Wezterm](https://wezfurlong.org/wezterm/)
 - Zsh W/ Starship <- Todo: Links
 ### Window Manager
