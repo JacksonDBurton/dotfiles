@@ -9,5 +9,6 @@ return {
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.python" },
+  { import = "astrocommunity.note-taking.obsidian-nvim" },
   -- import/override with your plugins folder
 }
