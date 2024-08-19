@@ -31,8 +31,14 @@ return {
               end,
               desc = "Obsidian Follow Link",
             },
-            ["<Leader>On"] = {
-              function() return ":ObsidianTemplate note<cr> :lua vim.cmd([[1,/^\\S/s/^\\n\\{1,}//]])<cr>" end,
+            ["<Leader>O"] = { desc = "Obsidian" },
+            ["<Leader>Ot"] = {
+              "<Cmd>ObsidianTemplate<CR>",
+              desc = "Select template to add to note",
+            },
+            ["<Leader>Of"] = {
+              "<Cmd>s/\\(# \\)[^_]*_/\\1/ | s/-/ /g<CR>",
+              desc = "Format note Title",
             },
           },
         },

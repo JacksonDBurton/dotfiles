@@ -1,1 +1,9 @@
+# Aliases
 alias config='/usr/bin/git --git-dir=$HOME/.cfg --work-tree=$HOME'
+alias zshenv='nvim $HOME/.zsh_env'
+alias zshconfig='nvim $HOME/.zshrc'
+alias nvimconf='cd $HOME/.config/nvim/lua/ && nvim'
+alias rezsh='source $HOME/.zshrc'
+alias hibernate="sudo systemctl suspend"
+# Path VAR
+export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
