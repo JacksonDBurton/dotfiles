@@ -1,5 +1,8 @@
 # dotfiles
 
+## TODO
+- Update how I handle env vars for zsh-vi-mode, tmux, tmuxinator, fzf
+
 ## Tools
 
 ### Terminal
@@ -11,6 +14,7 @@
   - Plus zsh-vi-mode
 - Tmux
   - vim-tmux-navigation
+  - Tmuxinator
 - FZF
   - If using FZF t;here is a conflict with zsh-vi-mode
 
