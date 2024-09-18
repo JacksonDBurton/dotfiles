@@ -11,6 +11,8 @@
   - Plus zsh-vi-mode
 - Tmux
   - vim-tmux-navigation
+- FZF
+  - If using FZF t;here is a conflict with zsh-vi-mode
 
 ### Window Manager
 
