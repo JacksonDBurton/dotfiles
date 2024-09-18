@@ -8,6 +8,7 @@
   - Font: [MesloLG NF](https://www.nerdfonts.com/font-downloads)
 - Considering [Wezterm](https://wezfurlong.org/wezterm/)
 - Zsh W/ Starship <- Todo: Links
+  - Plus zsh-vi-mode
 
 ### Window Manager
 
