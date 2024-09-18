@@ -2,7 +2,7 @@
 
 ## TODO
 - Update how I handle env vars for zsh-vi-mode, tmux, tmuxinator, fzf
-- Lookup setup on vimux
+- Lookup setup on vimux, tmux-resurrect
 
 ## Tools
 
