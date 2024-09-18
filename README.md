@@ -9,6 +9,8 @@
 - Considering [Wezterm](https://wezfurlong.org/wezterm/)
 - Zsh W/ Starship <- Todo: Links
   - Plus zsh-vi-mode
+- Tmux
+  - vim-tmux-navigation
 
 ### Window Manager
 
