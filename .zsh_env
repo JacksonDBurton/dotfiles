@@ -7,3 +7,5 @@ alias rezsh='source $HOME/.zshrc'
 alias hibernate="sudo systemctl suspend"
 # Path VAR
 export PATH=$HOME/bin:$HOME/.local/bin:/usr/local/bin:$PATH
+# ZVM_VI VARs
+export ZVM_VI_ESCAPE_BINDKEY=jk
