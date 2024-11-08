@@ -10,5 +10,7 @@ return {
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.markdown" },
+  { import = "astrocommunity.pack.helm" },
+  { import = "astrocommunity.pack.go" },
   -- import/override with your plugins folder
 }
